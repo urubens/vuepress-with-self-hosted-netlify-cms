@@ -1,11 +1,11 @@
 backend:
   name: git-gateway
   branch: main # Master branch is now called 'main' by default on Github
-  identity_url: "https://mont-cloud16.segi.ulg.ac.be/.netlify/identity"
-  gateway_url:  "https://mont-cloud16.segi.ulg.ac.be/.netlify/git"
-  site_domain:  "https://mont-cloud16.segi.ulg.ac.be/"
+  identity_url: "https://mysite.com/.netlify/identity"
+  gateway_url:  "https://mysite.com/.netlify/git"
+  site_domain:  "https://mysite.com/"
 
-site_url: "https://mont-cloud16.segi.ulg.ac.be"
+site_url: "https://mysite.com"
 media_folder: "src/.vuepress/public/media"
 public_folder: "/media"
 publish_mode: editorial_workflow
