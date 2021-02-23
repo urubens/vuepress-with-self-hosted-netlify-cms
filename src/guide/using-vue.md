@@ -1,3 +1,6 @@
+---
+title: Using Vue in Markdown
+---
 # Using Vue in Markdown
 
 ## Browser API Access Restrictions
